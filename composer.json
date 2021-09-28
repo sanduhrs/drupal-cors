@@ -1,0 +1,13 @@
+{
+    "name": "drupal/cors",
+    "description": "Allows Cross-origin resource sharing.",
+    "type": "drupal-module",
+    "license": "GPL-2-or-later",
+    "authors": [
+        {
+            "name": "sanduhrs",
+            "email": "stefan@auditor.email"
+        }
+    ],
+    "require": {}
+}
